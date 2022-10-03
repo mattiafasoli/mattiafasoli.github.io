@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body 
+{
+background-color: lightblue;
+}
+table 
+{
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+
+td, th 
+{
+border: 3px solid #080808;
+text-align: left;
+padding: 8px;
+}
+
+.center 
+{
+margin: auto;
+width: 60%;
+border: 3px solid lightblue;
+padding: 10px;
+text-align: center;       
+}
+
+p 
+{
+font-family: Verdana;
+font-size: 20px;
+}
+
+ul 
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+  
+li 
+{
+float: left;
+}
+  
+li a 
+{
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover{
+    background-color: white;
+}
+
+  
+</style>
+<title> Los Angeles  </title> 
+</head>
+<body>
+<ul>
+<li><a href="Los_Angeles.html">Home page</a></li>
+<li><a href="storia.html">Storia</a></li>
+<li><a href="attrazioni.principali.html">Attrazioni</a></li>
+<li><a href="amm.html">trasporti</a></li>
+</ul>
+<br>
+<img src="ls.jpeg" width="400" height="200"/>                   
+<div class="center">
+<h1>Los Angeles</h1>
+</div>
+<p> Attualmente Los Angeles è la città più
+importante della California, anche 
+rispetto a San Francisco.
+È ormai una metropoli, 
+la seconda più grande
+degli USA, dopo New York, 
+con oltre 17.000.000 abitanti che 
+vivono soprattutto dell'industria 
+aeronautica, del cinema e del turismo.
+
+Los Angeles è una famosa meta turistica
+internazionale e offre tutto ciò che un
+viaggiatore può desiderare: spiagge da
+film, come Santa Monica, Malibù, Venice
+Beach o Long Beach; stabilimenti di
+villeggiatura invernali a solo un'
+ora di distanza, come Mountain High 
+o Mount Baldy; una straordinaria
+offerta di divertimento notturno
+e vicinanza a Las Vegas.
+        
+Los Angeles accoglie numerose costruzioni
+in stile coloniale spagnolo e sul proprio
+scudo ostenta orgogliosa l'emblema 
+di Castiglia e León​, quale città moderna
+che conosce, assimila e accetta il suo
+passato coloniale.
+</p>
+<table>
+<tr>
+<th>popolazione</th>
+<th>Clima</th>
+<th>Settore prevalente</th>
+</tr>
+<tr>
+<td>3,976 milioni</td>
+<td>simile a quello mediterraneo</td>
+<td>terziario o quartenario</td>
+</tr>
+<tr>
+<th>La popolazione asiatica è la maggiore degli Stati Uniti (nella Contea di Los Angeles vivono circa 1 400 000 asiatici).</th>
+<th>La città riceve il minimo di precipitazioni annuali necessarie per non rientrare nel gruppo dei climi aridi.Los Angeles gode di abbondante luce solare, con una media annuale di soli 35 giorni di pioggia.</th>
+<th>L'economia di Los Angeles è anche molto sviluppata nel commercio internazionale, nell'industria dell'audiovisivo, nei settori aeronautico e aerospaziale, nell'agricoltura, nel turismo e nell'industria petrolifera.</th>
+</tr>
+<tr>
+<th>A Los Angeles si trovano consistenti comunità etniche originarie di oltre 140 paesi, e si parlano almeno 224 lingue diverse. Enclavi etniche come Chinatown, Historic Filipinotown, Koreatown, Little Armenia, Little Ethiopia, Little Persia, Little Tokyo, Thai Town, Olvera Street testimoniano il carattere variegato della città.</th>
+<th>È da notare come il contrasto fra l'aria calda del vicino deserto del Mojave e quella più fredda del Pacifico diano luogo, specialmente tra la fine della primavera e l'inizio dell'estate, a delle nebbie fitte e a cielo coperto, soprattutto lungo la costa. Tale fenomeno viene localmente definito May Gray o June Gloom.</th>
+<th> Los Angeles è anche uno dei maggiori centri statunitensi dell'industria manifatturiera. Considerati insieme, i porti di Los Angeles e Long Beach costituiscono il maggiore scalo marittimo del Nord America e del mondo. In genere tutti i settori economici sono ben rappresentati, inclusi quelli inerenti alle telecomunicazioni, ai servizi bancari, finanziari e legali, alla sanità e ai trasporti.</th>
+</tr>
+</table>
+</body>
+</html>

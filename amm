@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+<html>
+<style>
+body 
+{  
+background-color: lightblue;
+}
+
+p 
+{
+font-family: Verdana;
+font-size: 30px;
+}
+.center {
+margin: auto;
+width: 60%;
+border: 3px solid lightblue;
+padding: 10px;
+text-align: center;
+}
+ul
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+li 
+{
+float: left;
+}
+  
+li a 
+{
+display: block;
+color: black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover{
+    background-color: white;
+}
+
+</style>
+<title> Los Angeles  </title> 
+</head>
+<body>
+<ul>
+<li><a href="Index>Home page</a></li>
+<li><a href="storia.html">Storia</a></li>
+<li><a href="attrazioni.principali.html">Attrazioni</a></li>
+<li><a href="amm.html">trasporti</a></li>
+	
+</ul>
+<div class="center"> 
+</div>
+<div class="center"><h2>Cosa c'è da sapere</h2></div>
+<p>Los Angeles possiede una metropolitana piccola che quindi non riesce a coprire le necessità di di New York o Chicago, questo è dovuto a una cultura massiccia e sproporzionata della mobilità privata, più che in altre città americane.
+    Le due principali compagnie di trasporto pubblico sono la METRO e la LADOT.
+    La prima opera in tutta la contea e gestisce sia le linee di superficie che le metropolitane, mentre la seconda si occupa esclusivamente delle linee di superficie nell'area cittadina.
+</p>
+
+<img src=metro.jpeg  width="400" height="300"/> 
+
+
+
+
+
+
+
+
+
+</body>
+</html>
